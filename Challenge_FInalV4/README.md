@@ -22,7 +22,7 @@ El sistema está diseñado para clínicas odontológicas que deseen automatizar 
 ---
 
 ##  Estructura del Proyecto
-
+```
 app/
 ├
 ├── api/
@@ -44,7 +44,7 @@ app/
 ├── README.md
 ├──main.py
 └──gui.ipynb
-
+```
 
 ---
 ##  Endpoints Disponibles
